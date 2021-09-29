@@ -1,8 +1,8 @@
-# Enhanced-Visual-Shaders
+# Enhanced Visual Shaders ( EVPE )
 A shaders project that made by a thai one.
 Just a simple and lag shaders but have more Customizable!
 
-This shaders is 1.0 but not final version, yet!
+This shaders is not final version, yet!
 'Cause i have to quickly release this shaders before Render Dragon was Coming out...
 
 If u find any bugs, u can report me or DM me from Discord!
