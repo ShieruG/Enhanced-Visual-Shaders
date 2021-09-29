@@ -7,6 +7,14 @@ This shaders is not final version, yet!
 
 If u find any bugs, u can report me or DM me from Discord!
 
+## Screenshot
+ill take more screenshot next update!
+
+![](20210929_151657.jpg)
+![](20210929_151705.jpg)
+![](20210929_151714.jpg)
+![](20210929_151728.jpg)
+
 ## Support Adreno and Mali ONLY!
 'Cause i have only Adreno and Mali devices so im sure that's run fine!
 But if u find bugs u can report or DM me from Discord!
