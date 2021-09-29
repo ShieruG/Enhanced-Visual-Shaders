@@ -10,10 +10,12 @@ If u find any bugs, u can report me or DM me from Discord!
 ## Screenshot
 ill take more screenshot next update!
 
-![](20210929_151657.jpg)
-![](20210929_151705.jpg)
-![](20210929_151714.jpg)
-![](20210929_151728.jpg)
+![](20210929_160444.jpg)
+![](20210929_160453.jpg)
+![](20210929_160503.jpg)
+![](20210929_160512.jpg)
+![](20210929_160522.jpg)
+![](20210929_160534.jpg)
 
 ## Support Adreno and Mali ONLY!
 'Cause i have only Adreno and Mali devices so im sure that's run fine!
