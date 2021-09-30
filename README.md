@@ -17,10 +17,12 @@ ill take more screenshot next update!
 ![](20210929_160522.jpg)
 ![](20210929_160534.jpg)
 
-## Support Adreno and Mali ONLY!
+## Support PowerVR, Adreno and Mali ONLY!
 'Cause i have only Adreno and Mali devices so im sure that's run fine!
 But if u find bugs u can report or DM me from Discord!
 
-## Not Compatible with PowerVR, Tegra or Apple!
-'Cause i have no PowerVR, Tegra or Apple devices so i can't fix bugs on these devices...
+So... however i have no PowerVR devices but im still fixed the bugs on it, don't worry!
+
+## Not Compatible with Tegra or Apple!
+'Cause i have no Tegra or Apple devices so i can't fix bugs on these devices...
 So sorry About this but its not compatible with these gpu... 
