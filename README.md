@@ -10,12 +10,14 @@ If u find any bugs, u can report me or DM me from Discord!
 ## Screenshot
 ill take more screenshot next update!
 
-![](20210929_160444.jpg)
-![](20210929_160453.jpg)
-![](20210929_160503.jpg)
-![](20210929_160512.jpg)
-![](20210929_160522.jpg)
-![](20210929_160534.jpg)
+![](20211007_070125.png)
+![](20211007_070134.jpg)
+![](20211007_070144.jpg)
+![](20211007_070157.jpg)
+![](20211007_070207.jpg)
+![](20211007_070220.jpg)
+![](20211007_070233.jpg)
+![](20211007_070243.jpg)
 
 ## Support PowerVR, Adreno and Mali ONLY!
 'Cause i have only Adreno and Mali devices so im sure that's run fine!
