@@ -7,18 +7,6 @@ This shaders is not final version, yet!
 
 If u find any bugs, u can report me or DM me from Discord!
 
-## Screenshot
-ill take more screenshot next update!
-
-![](20211007_070125.png)
-![](20211007_070134.jpg)
-![](20211007_070144.jpg)
-![](20211007_070157.jpg)
-![](20211007_070207.jpg)
-![](20211007_070220.jpg)
-![](20211007_070233.jpg)
-![](20211007_070243.jpg)
-
 ## Support PowerVR, Adreno and Mali ONLY!
 'Cause i have only Adreno and Mali devices so im sure that's run fine!
 But if u find bugs u can report or DM me from Discord!
