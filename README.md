@@ -20,3 +20,6 @@ so if u find any bugs or glitches please report here!
 
 anyways, sorry that i didn't release 0.4-0.7.
 it's can't be release, more like a trash, so sorry.
+
+#### Download
+[Enhanced Visual Shaders v0.8 _(Latest Version)_](https://github.com/ShieruG/Enhanced-Visual-Shaders/releases/download/0.8b/evpe_0.8.0.mcpack)
