@@ -1,4 +1,4 @@
-## Enhanced Visual Shaders ( EVBE )
+## Enhanced Visual Shaders Lite ( EVBE )
 ![](evbe_thumbnail.png)
 A shaders project that made by a thai one.
 Shaders for high-mid end devices
