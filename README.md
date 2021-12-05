@@ -1,7 +1,17 @@
-# Enhanced Visual Shaders ( EVPE )
+# Enhanced Visual Shaders ( EVBE )
+![](evbe_thumbnail.png)
 A shaders project that made by a thai one.
-Just a simple and lag shaders but have more Customizable!
+Shaders for high-mid end devices
 
-also, this shaders wont get update rn, but maybe in this month.
-'cause i have so many things to do.and im busy too
-all back update this if im back free.
+// Low version coming soon!
+
+### Screenshot
+![](sc_1.png)
+![](sc_2.png)
+
+This shaders support :
+- Windows 10 (no render dragon)
+- Android (unsupport iOS)
+
+also, this shaders still on beta progress, not full release.
+so if u find any bugs or glitches please report here!
