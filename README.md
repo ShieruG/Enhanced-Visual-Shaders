@@ -13,7 +13,9 @@ Shaders for high-mid end devices
 
 This shaders support :
 - Windows 10 (no render dragon)
-- Android (unsupport iOS)
+- Android & iOS
+
+ps. iOS tested on iPhone 12 max.
 
 also, this shaders still on beta progress, not full release.
 so if u find any bugs or glitches please report here!
