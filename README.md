@@ -22,4 +22,6 @@ anyways, sorry that i didn't release 0.4-0.7.
 it's can't be release, more like a trash, so sorry.
 
 #### Download
-[Enhanced Visual Shaders v0.8 _(Latest Version)_](https://github.com/ShieruG/Enhanced-Visual-Shaders/releases/download/0.8b/evpe_0.8.0.mcpack)
+[ - Enhanced Visual Shaders v0.8 (Latest Version)](https://github.com/ShieruG/Enhanced-Visual-Shaders/releases/download/0.8b/evpe_0.8.0.mcpack)
+
+[ - All Version of EVBE here](https://github.com/ShieruG/Enhanced-Visual-Shaders/releases)
