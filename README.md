@@ -5,7 +5,7 @@ Shaders for low-end Devices
 
 ### Screenshot
 ![](scl_1.png)
-![](scl_2.png)
+![](scl_3.png)
 
 #### More info
 
