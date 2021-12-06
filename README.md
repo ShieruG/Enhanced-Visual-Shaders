@@ -3,7 +3,7 @@
 A shaders project that made by a thai one.
 Shaders for high-mid end devices
 
-// Low version coming soon!
+[_Also try!_ Lite version here!](https://github.com/ShieruG/Enhanced-Visual-Shaders/tree/lite)
 
 ### Screenshot
 ![](sc_1.png)
@@ -12,15 +12,15 @@ Shaders for high-mid end devices
 #### More info
 
 This shaders support :
-- Windows 10 (no render dragon)
-- Android & iOS
+- `Windows 10 (no render dragon)`
+- `Android & iOS`
 
-ps. iOS tested on iPhone 12 max.
+`ps. iOS tested on iPhone 12 max.`
 
 also, this shaders still on beta progress, not full release.
 so if u find any bugs or glitches please report here!
 
-anyways, sorry that i didn't release 0.4-0.7.
+anyways, sorry that i didn't release `0.4-0.7`.
 it's can't be release, more like a trash, so sorry.
 
 #### Download
