@@ -3,7 +3,7 @@
 A shaders project that made by a thai one.
 Shaders for high-mid end devices
 
-[_Also try!_ Lite version here!](https://github.com/ShieruG/Enhanced-Visual-Shaders/tree/lite)
+[_Also try Lite Version!_  Click here!](https://github.com/ShieruG/Enhanced-Visual-Shaders/tree/lite)
 
 ### Screenshot
 ![](sc_1.png)
