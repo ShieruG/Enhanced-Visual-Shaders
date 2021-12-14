@@ -3,7 +3,7 @@
 A shaders project that made by a thai one.
 Shaders for high-mid end devices
 
-[_Also try Lite Version!_  Click here!](https://github.com/ShieruG/Enhanced-Visual-Shaders/tree/lite)
+Also try Lite version! [Click here](https://github.com/ShieruG/Enhanced-Visual-Shaders/tree/lite)
 
 ### Screenshot
 ![](sc_1.png)
@@ -24,8 +24,8 @@ anyways, sorry that i didn't release `0.4-0.7`.
 it's can't be release, more like a trash, so sorry.
 
 #### Download
-[ - Enhanced Visual Shaders v0.8 (Latest Version)](https://github.com/ShieruG/Enhanced-Visual-Shaders/releases/download/0.8b/evpe_0.8.0.mcpack)
+EVBE Latest version (v0.8 beta) [Click here](https://github.com/ShieruG/Enhanced-Visual-Shaders/releases/download/0.8b/evpe_0.8.0.mcpack)
 
-[ - Lite Version of EVBE here](https://github.com/ShieruG/Enhanced-Visual-Shaders/tree/lite)
+Lite version of EVBE [Click here](https://github.com/ShieruG/Enhanced-Visual-Shaders/tree/lite)
 
-[ - All Version of EVBE here](https://github.com/ShieruG/Enhanced-Visual-Shaders/releases)
+All version of EVBE [Click here](https://github.com/ShieruG/Enhanced-Visual-Shaders/releases)
